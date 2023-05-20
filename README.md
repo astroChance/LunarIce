@@ -1,4 +1,4 @@
-# LunarIce 🌑
+# LunarIce 🌑 🧊
 ## PhD dissertation work by C. Amos
 
 This repo contains data and workbooks related to my dissertation research within the Space Resources Department at Colorado School of Mines. The objectives of this research are to characterize the impact of water ice on seismic velocity through lunar regolith simulant. The aim of this work is to inform the effectiveness of shallow seismic methods to explore for subsurface ice on the Moon.
