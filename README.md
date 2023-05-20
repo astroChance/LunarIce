@@ -6,3 +6,5 @@ This repo contains data and workbooks related to my dissertation research within
 This work is divided into two main parts:
 1. Evaluate ultrasonic velocity measurements of regolith simulant and compare to Apollo experimental data
 2. Characterize the velocity impact of adding water ice to the regolith simulant
+
+Rock physics models and functions used in this work can be found in my [RPutils repository](https://github.com/astroChance/RPutils)
