@@ -7,7 +7,8 @@ This work is divided into two main parts:
 1. Evaluate ultrasonic velocity measurements of regolith simulant and compare to Apollo experimental data
 2. Characterize the velocity impact of adding water ice to the regolith simulant
 
-Accompanying papers:
-Amos, C. C., et al. "Velocity measurements of powdered rock at low confining pressures and comparison to Lunar shallow seismic velocity." Journal of Geophysical Research: Planets 129.5 (2024): e2024JE008287.
+### <br/>Accompanying papers:<br/>
+Amos, C. C., et al. "Velocity measurements of powdered rock at low confining pressures and comparison to Lunar shallow seismic velocity." Journal of Geophysical Research: Planets 129.5 (2024): e2024JE008287.<br/>
+[Click here to read this open access paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JE008287)<br/>
 
-Rock physics models and functions used in this work can be found in my [RPutils repository](https://github.com/astroChance/RPutils)
+<br/>Rock physics models and functions used in this work can be found in my [RPutils repository](https://github.com/astroChance/RPutils)
