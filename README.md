@@ -9,6 +9,10 @@ This work is divided into two main parts:
 
 ### <br/>Accompanying papers:<br/>
 Amos, C. C., et al. "Velocity measurements of powdered rock at low confining pressures and comparison to Lunar shallow seismic velocity." Journal of Geophysical Research: Planets 129.5 (2024): e2024JE008287.<br/>
-[Click here to read this open access paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JE008287)<br/>
+[Click here to read this open access paper](https://doi.org/10.1029/2024JE008287)
 
-<br/>Rock physics models and functions used in this work can be found in my [RPutils repository](https://github.com/astroChance/RPutils)
+Amos, C. C., et al. "Ultrasonic velocities of icy powdered rock with implications for seismic resource exploration on the moon." Icarus (2025): 116509.<br/>
+[Click here to read this open access paper](https://doi.org/10.1016/j.icarus.2025.116509)
+
+### <br/>Tools:<br/>
+Rock physics models and functions used in this work can be found in my [RPutils repository](https://github.com/astroChance/RPutils)
